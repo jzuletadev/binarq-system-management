@@ -44,10 +44,20 @@
 - Manual de usuario - [Recursos Humanos](https://storage.googleapis.com/bsm-bucket/Docs/Manual%20de%20Recursos%20Humanos%20Binarq.pdf)
 - Manual de usuario - [Bodegas e Inventarios](https://storage.googleapis.com/bsm-bucket/Docs/Manual%20de%20Bodega%20Binarq.pdf)
 
+## Release 1.0.1 🚀
+
+> Mejoras al sistema de tickets
+
+- Permite adjuntar archivos en la creacion/actualizacion del ticket
+- Permite adjuntar archivos al realizar comentarios
+- Soporta la carga de multiples archivos y tipos (Imagenes y Documentos)
+- Mejora de reportes de tickets (Permite seleccion de reporte completo)
+- Mejora de filtros en la vista general (Permite diferenciar el periodo actual)
+- Correccion de bugs en filtros de vista general y de Historial
 
 ---
 
-**Versión**: 1.0.0  
+**Versión**: 1.0.1
 **Última actualización**: Octubre 2025
 
 Para más información, contacta al equipo de desarrollo.
